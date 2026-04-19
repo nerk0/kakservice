@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <defs>
+    <radialGradient id="jar" cx="35%" cy="25%" r="65%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.55)"/>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.05)"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="400" height="220" fill="#F5DDE8"/>
+  <circle cx="42"  cy="28"  r="1.5" fill="#D4A54C" opacity=".2"/>
+  <circle cx="362" cy="192" r="1.5" fill="#3A492F" opacity=".12"/>
+  <circle cx="358" cy="30"  r="1"   fill="#D4A54C" opacity=".15"/>
+
+  <!-- Jar body -->
+  <rect x="138" y="68" width="124" height="130" rx="18" fill="rgba(255,255,255,0.55)"/>
+  <rect x="138" y="68" width="124" height="130" rx="18" fill="none" stroke="rgba(255,255,255,0.8)" stroke-width="2.5"/>
+
+  <!-- Candy fill inside jar (clipped) -->
+  <!-- Red round candy -->
+  <circle cx="168" cy="160" r="16" fill="#E84040"/>
+  <circle cx="168" cy="160" r="16" fill="none" stroke="#FF7070" stroke-width="2" opacity=".5"/>
+  <ellipse cx="162" cy="153" rx="5" ry="3" fill="white" opacity=".35" transform="rotate(-20 162 153)"/>
+  <!-- Yellow lemon candy -->
+  <circle cx="200" cy="172" r="15" fill="#F0C830"/>
+  <circle cx="200" cy="172" r="15" fill="none" stroke="#FFE070" stroke-width="2" opacity=".5"/>
+  <ellipse cx="194" cy="165" rx="5" ry="3" fill="white" opacity=".35" transform="rotate(-20 194 165)"/>
+  <!-- Green candy -->
+  <circle cx="232" cy="162" r="14" fill="#5AC85A"/>
+  <circle cx="232" cy="162" r="14" fill="none" stroke="#90E890" stroke-width="2" opacity=".5"/>
+  <ellipse cx="226" cy="156" rx="4.5" ry="2.5" fill="white" opacity=".35" transform="rotate(-20 226 156)"/>
+  <!-- Purple candy -->
+  <circle cx="178" cy="135" r="13" fill="#9B59E0"/>
+  <circle cx="178" cy="135" r="13" fill="none" stroke="#C090FF" stroke-width="2" opacity=".5"/>
+  <ellipse cx="173" cy="129" rx="4" ry="2.5" fill="white" opacity=".35" transform="rotate(-20 173 129)"/>
+  <!-- Orange candy -->
+  <circle cx="222" cy="138" r="13" fill="#F07030"/>
+  <circle cx="222" cy="138" r="13" fill="none" stroke="#FF9860" stroke-width="2" opacity=".5"/>
+  <ellipse cx="217" cy="132" rx="4" ry="2.5" fill="white" opacity=".35" transform="rotate(-20 217 132)"/>
+  <!-- Pink candy -->
+  <circle cx="200" cy="108" r="14" fill="#E05090"/>
+  <circle cx="200" cy="108" r="14" fill="none" stroke="#FF80C0" stroke-width="2" opacity=".5"/>
+  <ellipse cx="195" cy="102" rx="4.5" ry="2.5" fill="white" opacity=".35" transform="rotate(-20 195 102)"/>
+
+  <!-- Jar glass overlay -->
+  <rect x="138" y="68" width="124" height="130" rx="18" fill="url(#jar)"/>
+  <!-- Jar shine line -->
+  <path d="M155 80 Q152 140 155 195" stroke="white" stroke-width="3" fill="none" opacity=".4" stroke-linecap="round"/>
+
+  <!-- Jar lid -->
+  <rect x="130" y="54" width="140" height="26" rx="8" fill="#3A492F"/>
+  <rect x="130" y="54" width="140" height="26" rx="8" fill="none" stroke="#4D6040" stroke-width="1.5"/>
+  <!-- Lid highlight -->
+  <rect x="130" y="54" width="140" height="8" rx="4" fill="rgba(255,255,255,0.15)"/>
+
+  <!-- Scattered candies outside jar -->
+  <circle cx="90"  cy="130" r="12" fill="#F0C830"/>
+  <ellipse cx="86" cy="124" rx="4" ry="2.5" fill="white" opacity=".35" transform="rotate(-20 86 124)"/>
+  <circle cx="312" cy="145" r="11" fill="#E84040"/>
+  <ellipse cx="308" cy="139" rx="3.5" ry="2" fill="white" opacity=".35" transform="rotate(-20 308 139)"/>
+  <circle cx="78"  cy="165" r="10" fill="#9B59E0"/>
+  <ellipse cx="74" cy="160" rx="3" ry="2" fill="white" opacity=".35" transform="rotate(-20 74 160)"/>
+  <circle cx="322" cy="118" r="10" fill="#5AC85A"/>
+  <ellipse cx="318" cy="113" rx="3" ry="2" fill="white" opacity=".35" transform="rotate(-20 318 113)"/>
+
+
+</svg>

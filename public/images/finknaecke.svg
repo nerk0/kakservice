@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <!-- Background -->
+  <rect width="400" height="220" fill="#EBF0DC"/>
+  <circle cx="45"  cy="28"  r="1.5" fill="#3A492F" opacity=".12"/>
+  <circle cx="365" cy="192" r="1.5" fill="#3A492F" opacity=".12"/>
+
+  <!-- Shadow -->
+  <ellipse cx="200" cy="197" rx="150" ry="7" fill="rgba(0,0,0,0.06)"/>
+
+  <!-- Piece back -->
+  <rect x="65" y="120" width="270" height="36" rx="4" fill="#C8A87A"/>
+  <rect x="65" y="120" width="270" height="36" rx="4" fill="none" stroke="#DAC090" stroke-width="1" opacity=".5"/>
+  <!-- Fine holes in a grid pattern -->
+  <circle cx="100" cy="138" r="2.5" fill="#9A7848" opacity=".6"/>
+  <circle cx="128" cy="138" r="2.5" fill="#9A7848" opacity=".6"/>
+  <circle cx="156" cy="138" r="2.5" fill="#9A7848" opacity=".6"/>
+  <circle cx="184" cy="138" r="2.5" fill="#9A7848" opacity=".6"/>
+  <circle cx="212" cy="138" r="2.5" fill="#9A7848" opacity=".6"/>
+  <circle cx="240" cy="138" r="2.5" fill="#9A7848" opacity=".6"/>
+  <circle cx="268" cy="138" r="2.5" fill="#9A7848" opacity=".6"/>
+  <circle cx="296" cy="138" r="2.5" fill="#9A7848" opacity=".6"/>
+
+  <!-- Piece mid -->
+  <rect x="60" y="100" width="270" height="36" rx="4" fill="#D4B888"/>
+  <rect x="60" y="100" width="270" height="36" rx="4" fill="none" stroke="#E2CA9A" stroke-width="1" opacity=".5"/>
+  <circle cx="95"  cy="118" r="2.5" fill="#9A7848" opacity=".55"/>
+  <circle cx="123" cy="118" r="2.5" fill="#9A7848" opacity=".55"/>
+  <circle cx="151" cy="118" r="2.5" fill="#9A7848" opacity=".55"/>
+  <circle cx="179" cy="118" r="2.5" fill="#9A7848" opacity=".55"/>
+  <circle cx="207" cy="118" r="2.5" fill="#9A7848" opacity=".55"/>
+  <circle cx="235" cy="118" r="2.5" fill="#9A7848" opacity=".55"/>
+  <circle cx="263" cy="118" r="2.5" fill="#9A7848" opacity=".55"/>
+  <circle cx="291" cy="118" r="2.5" fill="#9A7848" opacity=".55"/>
+  <circle cx="319" cy="118" r="2.5" fill="#9A7848" opacity=".55"/>
+
+  <!-- Piece front (top) -->
+  <rect x="55" y="78" width="270" height="36" rx="4" fill="#E0C898"/>
+  <rect x="55" y="78" width="270" height="36" rx="4" fill="none" stroke="#ECD8A8" stroke-width="1.5" opacity=".6"/>
+  <!-- Two rows of fine holes -->
+  <circle cx="90"  cy="90" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="118" cy="90" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="146" cy="90" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="174" cy="90" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="202" cy="90" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="230" cy="90" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="258" cy="90" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="286" cy="90" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="314" cy="90" r="2.5" fill="#9A7848" opacity=".5"/>
+
+  <circle cx="90"  cy="104" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="118" cy="104" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="146" cy="104" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="174" cy="104" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="202" cy="104" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="230" cy="104" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="258" cy="104" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="286" cy="104" r="2.5" fill="#9A7848" opacity=".5"/>
+  <circle cx="314" cy="104" r="2.5" fill="#9A7848" opacity=".5"/>
+
+  <!-- Fine sesame seeds on top piece -->
+  <ellipse cx="105" cy="83" rx="2" ry="1" fill="#5A3A18" opacity=".4" transform="rotate(25 105 83)"/>
+  <ellipse cx="160" cy="81" rx="2" ry="1" fill="#5A3A18" opacity=".4" transform="rotate(-10 160 81)"/>
+  <ellipse cx="220" cy="83" rx="2" ry="1" fill="#5A3A18" opacity=".4" transform="rotate(40 220 83)"/>
+  <ellipse cx="275" cy="82" rx="2" ry="1" fill="#5A3A18" opacity=".4" transform="rotate(-30 275 82)"/>
+  <!-- Top surface gleam -->
+  <rect x="55" y="78" width="270" height="5" rx="2" fill="#F0DDB0" opacity=".35"/>
+
+
+</svg>

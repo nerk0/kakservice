@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <!-- Background -->
+  <rect width="400" height="220" fill="#EBF0DC"/>
+  <circle cx="40"  cy="25"  r="1.5" fill="#3A492F" opacity=".12"/>
+  <circle cx="370" cy="195" r="1.5" fill="#3A492F" opacity=".12"/>
+  <circle cx="360" cy="28"  r="1"   fill="#D4A54C" opacity=".15"/>
+
+  <!-- Shadow -->
+  <ellipse cx="200" cy="196" rx="145" ry="8" fill="rgba(0,0,0,0.07)"/>
+
+  <!-- Piece 3 (back) -->
+  <rect x="80" y="110" width="240" height="48" rx="5" fill="#B8956A"/>
+  <!-- Holes -->
+  <circle cx="115" cy="134" r="4" fill="#8B6A42" opacity=".7"/>
+  <circle cx="145" cy="134" r="4" fill="#8B6A42" opacity=".7"/>
+  <circle cx="175" cy="134" r="4" fill="#8B6A42" opacity=".7"/>
+  <circle cx="205" cy="134" r="4" fill="#8B6A42" opacity=".7"/>
+  <circle cx="235" cy="134" r="4" fill="#8B6A42" opacity=".7"/>
+  <circle cx="265" cy="134" r="4" fill="#8B6A42" opacity=".7"/>
+  <circle cx="295" cy="134" r="4" fill="#8B6A42" opacity=".7"/>
+  <!-- Surface texture -->
+  <rect x="80" y="110" width="240" height="48" rx="5" fill="none" stroke="#C9A878" stroke-width="1.5" opacity=".5"/>
+  <!-- Seed sprinkle -->
+  <ellipse cx="130" cy="124" rx="2" ry="1" fill="#6B4E2A" opacity=".5"/>
+  <ellipse cx="165" cy="122" rx="2" ry="1" fill="#6B4E2A" opacity=".5"/>
+  <ellipse cx="200" cy="125" rx="2" ry="1" fill="#6B4E2A" opacity=".5"/>
+  <ellipse cx="248" cy="123" rx="2" ry="1" fill="#6B4E2A" opacity=".5"/>
+  <ellipse cx="280" cy="125" rx="2" ry="1" fill="#6B4E2A" opacity=".5"/>
+
+  <!-- Piece 2 (mid) -->
+  <rect x="70" y="90" width="240" height="48" rx="5" fill="#C4A07A"/>
+  <circle cx="105" cy="114" r="4" fill="#8B6A42" opacity=".65"/>
+  <circle cx="135" cy="114" r="4" fill="#8B6A42" opacity=".65"/>
+  <circle cx="165" cy="114" r="4" fill="#8B6A42" opacity=".65"/>
+  <circle cx="195" cy="114" r="4" fill="#8B6A42" opacity=".65"/>
+  <circle cx="225" cy="114" r="4" fill="#8B6A42" opacity=".65"/>
+  <circle cx="255" cy="114" r="4" fill="#8B6A42" opacity=".65"/>
+  <circle cx="285" cy="114" r="4" fill="#8B6A42" opacity=".65"/>
+  <rect x="70" y="90" width="240" height="48" rx="5" fill="none" stroke="#D4B68A" stroke-width="1.5" opacity=".5"/>
+  <ellipse cx="120" cy="102" rx="2" ry="1" fill="#6B4E2A" opacity=".45"/>
+  <ellipse cx="185" cy="104" rx="2" ry="1" fill="#6B4E2A" opacity=".45"/>
+  <ellipse cx="260" cy="102" rx="2" ry="1" fill="#6B4E2A" opacity=".45"/>
+
+  <!-- Piece 1 (front/top) -->
+  <rect x="60" y="70" width="240" height="48" rx="5" fill="#D4B68A"/>
+  <circle cx="95"  cy="94" r="4.5" fill="#9A7050" opacity=".6"/>
+  <circle cx="128" cy="94" r="4.5" fill="#9A7050" opacity=".6"/>
+  <circle cx="161" cy="94" r="4.5" fill="#9A7050" opacity=".6"/>
+  <circle cx="194" cy="94" r="4.5" fill="#9A7050" opacity=".6"/>
+  <circle cx="227" cy="94" r="4.5" fill="#9A7050" opacity=".6"/>
+  <circle cx="260" cy="94" r="4.5" fill="#9A7050" opacity=".6"/>
+  <circle cx="293" cy="94" r="4.5" fill="#9A7050" opacity=".6"/>
+  <!-- Seed sprinkles top piece -->
+  <ellipse cx="110" cy="80" rx="2.5" ry="1.2" fill="#4A2C10" opacity=".45"/>
+  <ellipse cx="148" cy="82" rx="2.5" ry="1.2" fill="#4A2C10" opacity=".45" transform="rotate(30 148 82)"/>
+  <ellipse cx="210" cy="79" rx="2.5" ry="1.2" fill="#4A2C10" opacity=".45" transform="rotate(-20 210 79)"/>
+  <ellipse cx="255" cy="83" rx="2.5" ry="1.2" fill="#4A2C10" opacity=".45" transform="rotate(15 255 83)"/>
+  <!-- Top highlight -->
+  <rect x="60" y="70" width="240" height="48" rx="5" fill="none" stroke="#E4CCA0" stroke-width="1.5" opacity=".6"/>
+  <rect x="60" y="70" width="240" height="6" rx="3" fill="#EDD8B0" opacity=".3"/>
+
+
+</svg>

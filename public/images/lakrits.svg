@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 220">
+  <!-- Background -->
+  <rect width="400" height="220" fill="#F5DDE8"/>
+  <circle cx="42"  cy="28"  r="1.5" fill="#D4A54C" opacity=".2"/>
+  <circle cx="362" cy="192" r="1.5" fill="#3A492F" opacity=".12"/>
+
+  <!-- Shadow -->
+  <ellipse cx="200" cy="197" rx="130" ry="8" fill="rgba(0,0,0,0.07)"/>
+
+  <!-- Licorice bag outline (paper bag) -->
+  <path d="M140 80 L140 185 Q140 195 150 195 L250 195 Q260 195 260 185 L260 80 Z" fill="#1C1218"/>
+  <path d="M140 80 Q140 70 150 70 L250 70 Q260 70 260 80 L260 90 Q200 100 140 90 Z" fill="#2A1C24"/>
+  <!-- Bag highlight -->
+  <path d="M148 80 L148 185" stroke="rgba(255,255,255,0.08)" stroke-width="3" stroke-linecap="round"/>
+  <!-- Bag fold line -->
+  <path d="M140 92 Q200 102 260 92" stroke="rgba(255,255,255,0.06)" stroke-width="1.5" fill="none"/>
+
+  <!-- Licorice pieces visible at top of bag -->
+  <!-- Rolls / spirals peeking out -->
+  <!-- Roll 1 -->
+  <circle cx="175" cy="88" r="18" fill="#0A0608"/>
+  <circle cx="175" cy="88" r="13" fill="#1C1218"/>
+  <circle cx="175" cy="88" r="8"  fill="#0A0608"/>
+  <circle cx="175" cy="88" r="4"  fill="#1C1218"/>
+  <circle cx="175" cy="88" r="18" fill="none" stroke="#3D2830" stroke-width="1" opacity=".6"/>
+  <!-- Roll 2 -->
+  <circle cx="200" cy="85" r="18" fill="#0A0608"/>
+  <circle cx="200" cy="85" r="13" fill="#1C1218"/>
+  <circle cx="200" cy="85" r="8"  fill="#0A0608"/>
+  <circle cx="200" cy="85" r="4"  fill="#1C1218"/>
+  <circle cx="200" cy="85" r="18" fill="none" stroke="#3D2830" stroke-width="1" opacity=".6"/>
+  <!-- Roll 3 -->
+  <circle cx="225" cy="88" r="18" fill="#0A0608"/>
+  <circle cx="225" cy="88" r="13" fill="#1C1218"/>
+  <circle cx="225" cy="88" r="8"  fill="#0A0608"/>
+  <circle cx="225" cy="88" r="4"  fill="#1C1218"/>
+  <circle cx="225" cy="88" r="18" fill="none" stroke="#3D2830" stroke-width="1" opacity=".6"/>
+
+  <!-- Bag label sticker -->
+  <rect x="155" y="118" width="90" height="52" rx="6" fill="#FBF7F1" opacity=".95"/>
+  <rect x="155" y="118" width="90" height="52" rx="6" fill="none" stroke="#E0D0D8" stroke-width="1.5"/>
+  <text x="200" y="139" text-anchor="middle" font-family="Georgia,serif" font-size="10" fill="#1C1218" font-weight="bold" letter-spacing=".5">PREMIUM</text>
+  <line x1="163" y1="145" x2="237" y2="145" stroke="#C8B0B8" stroke-width="1" opacity=".6"/>
+  <text x="200" y="159" text-anchor="middle" font-family="Georgia,serif" font-size="9" fill="#3A492F" letter-spacing=".5">LAKRITS</text>
+
+  <!-- Scattered pieces outside bag -->
+  <!-- Licorice stick left -->
+  <rect x="75" y="130" width="44" height="12" rx="6" fill="#0A0608"/>
+  <rect x="75" y="130" width="44" height="12" rx="6" fill="none" stroke="#3D2830" stroke-width="1" opacity=".5"/>
+  <rect x="82" y="134" width="30" height="4" rx="2" fill="#1C1218"/>
+  <!-- Licorice stick right -->
+  <rect x="283" y="145" width="44" height="12" rx="6" fill="#0A0608" transform="rotate(-15 283 145)"/>
+  <rect x="283" y="145" width="44" height="12" rx="6" fill="none" stroke="#3D2830" stroke-width="1" opacity=".5" transform="rotate(-15 283 145)"/>
+  <!-- Small roll bottom left -->
+  <circle cx="92" cy="170" r="13" fill="#0A0608"/>
+  <circle cx="92" cy="170" r="9"  fill="#1C1218"/>
+  <circle cx="92" cy="170" r="5"  fill="#0A0608"/>
+  <!-- Small roll bottom right -->
+  <circle cx="312" cy="173" r="13" fill="#0A0608"/>
+  <circle cx="312" cy="173" r="9"  fill="#1C1218"/>
+  <circle cx="312" cy="173" r="5"  fill="#0A0608"/>
+
+
+</svg>
